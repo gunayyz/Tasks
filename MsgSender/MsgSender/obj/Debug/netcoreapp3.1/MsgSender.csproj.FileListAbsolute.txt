@@ -1,0 +1,13 @@
+/Users/gunay/Projects/MsgSender/MsgSender/bin/Debug/netcoreapp3.1/MsgSender.deps.json
+/Users/gunay/Projects/MsgSender/MsgSender/bin/Debug/netcoreapp3.1/MsgSender.runtimeconfig.json
+/Users/gunay/Projects/MsgSender/MsgSender/bin/Debug/netcoreapp3.1/MsgSender.runtimeconfig.dev.json
+/Users/gunay/Projects/MsgSender/MsgSender/bin/Debug/netcoreapp3.1/MsgSender.dll
+/Users/gunay/Projects/MsgSender/MsgSender/bin/Debug/netcoreapp3.1/MsgSender.pdb
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.csproj.AssemblyReference.cache
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.AssemblyInfoInputs.cache
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.AssemblyInfo.cs
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.csproj.CoreCompileInputs.cache
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.dll
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.pdb
+/Users/gunay/Projects/MsgSender/MsgSender/obj/Debug/netcoreapp3.1/MsgSender.genruntimeconfig.cache
